@@ -2,10 +2,10 @@ Hey folks, welcome to my profile! 👋
 
 ## About Me
 
-I’m Devendra Talele, a passionate and results-driven Full-Stack Developer 👨‍💻 with over 5 years of professional experience in building robust software solutions.</br>
-I thrive on designing innovative, scalable systems that solve real-world problems and elevate user experiences. </br>
+I’m Devendra Talele, a results-driven Full-Stack Developer 👨‍💻 with over 5+ years of professional experience in building robust software solutions.</br>
+I thrive on designing innovative, scalable systems that solve real-world problems and elevate user experiences.</br>
 From conceptualizing ideas to writing clean and efficient code, I love bringing projects to life.</br>
-Forever curious and committed to growth. </br>
+Forever curious and committed to growth.</br>
 I’m a lifelong learner who’s always exploring new technologies, sharpening my craft, and embracing opportunities to improve.</br>
 
 Thanks for stopping by — let’s create something amazing together!
