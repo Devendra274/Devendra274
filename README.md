@@ -19,13 +19,9 @@ Thanks for stopping by — let’s create something amazing together!
   [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,tomcat,bash&perline=10)](https://skillicons.dev)
   [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=junit&titles=true)](https://go-skill-icons.vercel.app)
   [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=junit&titles=true)](https://go-skill-icons.vercel.app)
-  ![Mockito](https://javadoc.io/static/org.mockito/mockito-core/2.0.2-beta/org/mockito/logo.jpg)
-  ![Wiremock](https://upload.wikimedia.org/wikipedia/commons/9/96/HazelcastLogo-Blue_Dark_Square.svg)
-  ![RestAssured](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*_wxvYQ3bmLZBk31PIZihfA.png)
 ### Database
   [![My Skills](https://skillicons.dev/icons?i=mysql&perline=10)](https://skillicons.dev)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
-  ![Hazelcast](https://hazelcast.com/wp-content/themes/hazelcast/assets/img/hazelcast-logo.svg)
 ### Message Brokers
   [![My Skills](https://skillicons.dev/icons?i=kafka&perline=10)](https://skillicons.dev)
 ### Frontend
