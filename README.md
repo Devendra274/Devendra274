@@ -16,9 +16,8 @@ Thanks for stopping by — let’s create something amazing together!
 ## My tech stack
 
 ### Backend
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,tomcat,bash&perline=10)](https://skillicons.dev)
-  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=junit&titles=true)](https://go-skill-icons.vercel.app)
-  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=junit&titles=true)](https://go-skill-icons.vercel.app)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven&perline=10)](https://skillicons.dev)
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tomcat,junit,bash&titles=true)](https://go-skill-icons.vercel.app)
 ### Database
   [![My Skills](https://skillicons.dev/icons?i=mysql&perline=10)](https://skillicons.dev)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
