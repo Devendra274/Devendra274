@@ -1,5 +1,9 @@
 Hey folks, welcome to my profile! 👋
 
+![Devendra's GitHub profile](https://komarev.com/ghpvc/?username=Devendra274&label=Profile%20views&color=0e75b6&style=flat)</br>
+
+![Devendra's GitHub stats](https://github-profile-trophy.vercel.app/?username=Devendra274)</br>
+
 ## About Me
 
 I’m Devendra Talele, a results-driven Full-Stack Developer 👨‍💻 with over 5+ years of professional experience in building robust software solutions.</br>
@@ -32,6 +36,21 @@ Thanks for stopping by — let’s create something amazing together!
 ### Tools
   [![My Skills](https://skillicons.dev/icons?i=docker,jenkins,kubernetes,nginx,git,bitbucket,postman,linux,ubuntu,vim&perline=10)](https://skillicons.dev)
 
+
+## 💞️ Looking to Collaborate On
+- **Open-source projects** that make a difference.
+- **Web applications** that solve real-world problems.
+- **Coding opportunities** to grow and improve my skills.
+
+## 📫 Connect with Me
+- **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/devendra-talele)  
+- **Email**: devendra.talele95@gmail.com
+
 ## Gihub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devendra274&show_icons=true&theme=dark)
+![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devendra274&show_icons=true&theme=dark)</br>
+![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nehasingh114&show_icons=true&locale=en&layout=compact)</br>
+
+![Devendra's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Devendra274&)<br/>
+
+![Devendra's GitHub stats](https://activity-graph.herokuapp.com/graph?username=nehasingh114&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)</br>
