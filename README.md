@@ -1,6 +1,6 @@
 Hey folks, welcome to my profile! 👋
 
-![Devendra's GitHub profile](https://komarev.com/ghpvc/?username=Devendra274&label=Profile%20views&color=0e75b6&style=flat)</br>
+![Devendra's GitHub profile](https://komarev.com/ghpvc/?username=Devendra274&label=Profile%20views&color=0e75b6&style=flat)
 
 ![Devendra's GitHub stats](https://github-profile-trophy.vercel.app/?username=Devendra274)</br>
 
