@@ -49,8 +49,10 @@ Thanks for stopping by — let’s create something amazing together!
 ## Gihub Stats
 
 ![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devendra274&show_icons=true&theme=dark)</br>
+<!--
 ![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nehasingh114&show_icons=true&locale=en&layout=compact)</br>
 
 ![Devendra's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Devendra274&)<br/>
 
 ![Devendra's GitHub stats](https://activity-graph.herokuapp.com/graph?username=nehasingh114&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)</br>
+-->
